@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    display: inline-block;
+}
+
+ul {
+    display: inline-block;
+}
