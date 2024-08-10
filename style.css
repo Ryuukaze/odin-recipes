@@ -1,11 +1,21 @@
 * {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
 img {
-    display: inline-block;
+    margin: 8px;
 }
 
-ul {
+.text-container {
+    background-color: aquamarine;
+    margin: 8px;
+    padding: 8px;
+    float: right;
+}
+
+.img-and-list {
     display: inline-block;
 }
