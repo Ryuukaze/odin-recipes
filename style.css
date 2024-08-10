@@ -5,12 +5,15 @@
     box-sizing: border-box;
 }
 
+h1 {
+    margin: 16px;
+}
+
 img {
     margin: 8px;
 }
 
 .text-container {
-    background-color: aquamarine;
     margin: 8px;
     padding: 8px;
     float: right;
@@ -18,4 +21,7 @@ img {
 
 .img-and-list {
     display: inline-block;
+    background-color: rgb(255, 199, 144);
+    margin: 16px;
+    padding: 8px;
 }
